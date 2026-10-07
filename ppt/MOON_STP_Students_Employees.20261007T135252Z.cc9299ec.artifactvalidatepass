@@ -1,0 +1,30 @@
+{
+  "tool": "artifact-validator",
+  "schemaVersion": "2.0",
+  "validatorVersion": "3.2.3",
+  "result": "valid",
+  "exitCode": 0,
+  "input": {
+    "path": "/mnt/data/moonv3/MOON-STP-STUDENTS-EMPLOYEES/ppt/MOON_STP_Students_Employees.pptx",
+    "sha256": "baf4f2f48cfbc8e516c4cab16ee98b68fa1cd19c17b734613d7f794932972adc",
+    "sizeBytes": 2518157,
+    "kind": "pptx"
+  },
+  "output": null,
+  "backup": null,
+  "repair": {
+    "mode": "compat",
+    "applied": [],
+    "revalidated": false,
+    "status": "not_needed",
+    "outputPublished": false
+  },
+  "packageError": null,
+  "summary": {
+    "errorCount": 0,
+    "warningCount": 0,
+    "repairableCount": 0,
+    "issueCount": 0
+  },
+  "issues": []
+}
